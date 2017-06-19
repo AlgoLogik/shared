@@ -29,6 +29,12 @@
 :END:
 *** TODO Solo Queue
 **** TODO Play 10 games as Jinx
+***** DONE Game 1
+CLOSED: [2017-06-16 Fri 17:09]
+***** NEXT Game 2
+***** TODO Game 3
+***** TODO Game 4
+***** TODO Game 5
 *** NEXT Set up plays.tv
 ** Osu
 ** Poker
@@ -41,18 +47,20 @@
 ** Food
 ** TODO Home
 *** NEXT Clean floors
-*** NEXT Beer run
-SCHEDULED: <2017-06-16 Fri 12:30>
+*** DONE Beer run
+CLOSED: [2017-06-16 Fri 17:11] SCHEDULED: <2017-06-16 Fri 12:30>
 *** NEXT Wash dishes
 *** NEXT Laundry
+*** NEXT Groceries <2017-06-19 Mon>
 ** Organization
 *** NEXT Daily Organization
 :LOGBOOK:
 CLOCK: [2017-06-16 Fri 10:50]--[2017-06-16 Fri 11:02] =>  0:12
 :END:
-*** NEXT Setup Github for agenda
+*** DONE Setup Github for agenda
+CLOSED: [2017-06-16 Fri 11:38]
 :LOGBOOK:
-CLOCK: [2017-06-16 Fri 11:32]
+CLOCK: [2017-06-16 Fri 11:32]--[2017-06-16 Fri 11:38] =>  0:06
 CLOCK: [2017-06-16 Fri 11:25]--[2017-06-16 Fri 11:26] =>  0:01
 :END:
 ** Sports
@@ -61,6 +69,6 @@ CLOCK: [2017-06-16 Fri 11:25]--[2017-06-16 Fri 11:26] =>  0:01
 :CATEGORY: Work
 :END:
 ** B&M
-*** TODO Work Shift <2017-06-10 Sat 08:30-17:00>
-*** TODO Work Shift <2017-06-11 Sun 09:30-17:00>
+*** TODO Work Shift <2017-06-17 Sat 08:30-17:00>
+*** TODO Work Shift <2017-06-18 Sun 12:30-17:00>
 ** Job Search

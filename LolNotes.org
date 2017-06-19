@@ -9,3 +9,47 @@
 *** Jinx
 ** Support
 *** Zyra
+* Study
+** xFSN Saber
+*** [Gold 3] Miss Fortune Coaching | Lane Phase, Mid Game Tactics
+ How to analyse laning phase
+ - 1v1 & 2v2 win conditions
+   - CC
+   - Damage
+   - Sustain
+ 
+ Sustain Lanes
+   - Take trades and sustain
+     - Force them to back
+     - Create dive pressure
+     - Zone them
+     - Make them call for a gank
+     
+ Trading
+   - Trade when you're strong and when they're weak
+     - Queue to go in if enemy has low value ability
+     - Go in when your abilities are up, else you have no value
+
+  How to analyse gank
+   - What need to happen for you to die
+     - Key CC abilities
+   - Flash to guarantee an advantage in lane and in the game
+     - If jungle gank fails, he lose time (no farm, lost pressure) and your jungle has a free play
+   - You WANT to be ganked
+     - You don't want to DIE to the gank
+     - Or take people with you
+   - Gank lose conditions
+     - Low HP (give enemy more win conditions)
+     - No flash
+
+   Back timing
+     - Reasons to back
+       - You can push them in tower and get a free back
+       - Push for cannon wave if you need to back but cant
+         - Slow push until the wave the last wave before the cannon, then push it in
+       - If you have no choice, just back
+
+   Level 6 analysis
+     - New win/lose conditions based on Rs
+      
+   Have a plan for fights (Poke, Trade, Ganks, Fights)
