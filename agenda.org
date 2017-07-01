@@ -3,22 +3,21 @@
 :CATEGORY: Calendar
 :END:
 ** Activities
-*** TODO Dance night <2017-06-16 Fri 18:30>
+*** TODO Road Trip <2017-08-21 Mon>--<2017-08-27 Sun>
+*** TODO Party at Dad's <2017-07-01 Sat 15:00-20:00> 
 ** Appointments
 *** TODO Funeral <2017-07-21 Fri> 
-*** TODO Funeral <2017-06-17 Sat 19:00-21:00> 
-*** TODO Funeral <2017-06-18 Sun 10:00-12:00> 
 ** Birthdays
 ** Holidays
 * Development
 :PROPERTIES:
 :CATEGORY: Projects
 :END:
-** TODO Cat Feeder
-*** NEXT Buy electronics at Abra
-*** NEXT Buy materials at Rona
-** D&D Campaign
-** Sports Simulator
+** TODO NHL Analytics
+*** TODO Scrap up all data
+**** NEXT Establish database schema
+**** NEXT Find all data sources
+**** TODO Build HTML scrapper
 * Gaming
 :PROPERTIES:
 :CATEGORY: Gaming
@@ -27,48 +26,52 @@
 :PROPERTIES:
 :CATEGORY: League
 :END:
-*** TODO Solo Queue
-**** TODO Play 10 games as Jinx
-***** DONE Game 1
-CLOSED: [2017-06-16 Fri 17:09]
-***** NEXT Game 2
-***** TODO Game 3
-***** TODO Game 4
-***** TODO Game 5
-*** NEXT Set up plays.tv
-** Osu
-** Poker
-** Xcom
+*** TODO Playing
+*** TODO Reviewing
+*** TODO Studying
+** TODO Poker
+:PROPERTIES:
+:CATEGORY: Poker
+:END:
+*** TODO Playing
+*** TODO Reviewing
+*** TODO Studying
+* Notes
+** Namou @ Cuba: July 7-14                                            :NOTE:
 * Personal
 :PROPERTIES:
 :CATEGORY: Self
 :END:
 ** Dance
 ** Food
-** TODO Home
-*** NEXT Clean floors
-*** DONE Beer run
-CLOSED: [2017-06-16 Fri 17:11] SCHEDULED: <2017-06-16 Fri 12:30>
-*** NEXT Wash dishes
-*** NEXT Laundry
-*** NEXT Groceries <2017-06-19 Mon>
-** Organization
-*** NEXT Daily Organization
-:LOGBOOK:
-CLOCK: [2017-06-16 Fri 10:50]--[2017-06-16 Fri 11:02] =>  0:12
+** Finance
+*** NEXT Setup YNAB
+** Habits
+*** NEXT Daily Planning
+SCHEDULED: <2017-07-02 Sun .+1d/3d>
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:LAST_REPEAT: [2017-07-01 Sat 09:23]
 :END:
-*** DONE Setup Github for agenda
-CLOSED: [2017-06-16 Fri 11:38]
 :LOGBOOK:
-CLOCK: [2017-06-16 Fri 11:32]--[2017-06-16 Fri 11:38] =>  0:06
-CLOCK: [2017-06-16 Fri 11:25]--[2017-06-16 Fri 11:26] =>  0:01
+- State "DONE"       from "NEXT"       [2017-07-01 Sat 09:23]
+CLOCK: [2017-07-01 Sat 09:06]--[2017-07-01 Sat 09:22] =>  0:16
 :END:
+** Home     
+*** NEXT Clean room <2017-07-01 Sat>
 ** Sports
 * Work
 :PROPERTIES:
 :CATEGORY: Work
 :END:
 ** B&M
-*** TODO Work Shift <2017-06-17 Sat 08:30-17:00>
-*** TODO Work Shift <2017-06-18 Sun 12:30-17:00>
+*** TODO Saturday Shift <2017-07-08 Sat 08:30-17:30 +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2017-07-01 Sat 09:18]
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2017-07-01 Sat 09:18]
+:END:
+*** TODO Sunday Shift <2017-07-02 Sun 9:30-17:30 +1w>
 ** Job Search
