@@ -34,7 +34,17 @@
 :CATEGORY: Poker
 :END:
 *** TODO Playing
+**** NEXT NL2 Regular
+:LOGBOOK:
+CLOCK: [2017-07-01 sam. 14:07]--[2017-07-01 sam. 14:40] =>  0:33
+CLOCK: [2017-07-01 sam. 10:26]--[2017-07-01 sam. 11:11] =>  0:45
+:END:
 *** TODO Reviewing
+**** DONE [2017-07-01 sam.] morning session
+CLOSED: [2017-07-01 sam. 14:07]
+:LOGBOOK:
+CLOCK: [2017-07-01 sam. 12:10]--[2017-07-01 sam. 12:43] =>  0:33
+:END:
 *** TODO Studying
 * Notes
 ** Namou @ Cuba: July 7-14                                            :NOTE:
