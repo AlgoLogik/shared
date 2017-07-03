@@ -4,7 +4,8 @@
 :END:
 ** Activities
 *** TODO Road Trip <2017-08-21 Mon>--<2017-08-27 Sun>
-*** TODO Party at Dad's <2017-07-01 Sat 15:00-20:00> 
+*** DONE Party at Dad's <2017-07-01 Sat 15:00-20:00>
+CLOSED: [2017-07-02 dim. 18:53]
 ** Appointments
 *** TODO Funeral <2017-07-21 Fri> 
 ** Birthdays
@@ -54,22 +55,33 @@ CLOCK: [2017-07-01 sam. 12:10]--[2017-07-01 sam. 12:43] =>  0:33
 :END:
 ** Dance
 ** Food
+*** NEXT Groceries
 ** Finance
 *** NEXT Setup YNAB
 ** Habits
 *** NEXT Daily Planning
-SCHEDULED: <2017-07-02 Sun .+1d/3d>
+SCHEDULED: <2017-07-03 lun. .+1d/3d>
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2017-07-01 Sat 09:23]
+:LAST_REPEAT: [2017-07-02 dim. 18:55]
 :END:
 :LOGBOOK:
+- State "DONE"       from "NEXT"       [2017-07-02 dim. 18:55]
+CLOCK: [2017-07-02 dim. 18:37]--[2017-07-02 dim. 18:55] =>  0:18
 - State "DONE"       from "NEXT"       [2017-07-01 Sat 09:23]
 CLOCK: [2017-07-01 Sat 09:06]--[2017-07-01 Sat 09:22] =>  0:16
 :END:
 ** Home     
-*** NEXT Clean room <2017-07-01 Sat>
+*** NEXT Clean room
+:LOGBOOK:
+CLOCK: [2017-07-02 dim. 18:56]--[2017-07-02 dim. 19:23] =>  0:27
+:END:
+*** NEXT Close litter
+*** NEXT Clean drawers
+** TODO Buy Random Things
+*** NEXT 4 D batteries
+*** NEXT Broom
 ** Sports
 * Work
 :PROPERTIES:
@@ -83,5 +95,14 @@ CLOCK: [2017-07-01 Sat 09:06]--[2017-07-01 Sat 09:22] =>  0:16
 :LOGBOOK:
 - State "CANCELLED"  from "TODO"       [2017-07-01 Sat 09:18]
 :END:
-*** TODO Sunday Shift <2017-07-02 Sun 9:30-17:30 +1w>
+*** TODO Sunday Shift <2017-07-09 dim. 09:30-17:30 +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2017-07-02 dim. 18:48]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-02 dim. 18:48]
+:END:
+*** TODO Week Shift <2017-07-03 lun. 12:00-21:00> 
+*** TODO Week Shift <2017-07-04 mar. 10:00-21:00> 
+*** TODO Week Shift <2017-07-06 jeu. 10:00-21:00> 
 ** Job Search
